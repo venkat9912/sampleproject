@@ -3,6 +3,9 @@ package assessment;
 public class Armstrong {
 
 	public static void main(String[] args) {
+		
+		
+		System.out.println("hello");
 		int a,num,temp,c=0;
 		num=153;
 		temp=num;
